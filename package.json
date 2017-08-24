@@ -1,0 +1,27 @@
+{
+  "name": "optician",
+  "version": "1.0.0",
+  "description": "optician desktop client side",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedmhiri/optician-electron-client-side.git"
+  },
+  "keywords": [
+    "electron",
+    "nodejs",
+    "web",
+    "html",
+    "css",
+    "js"
+  ],
+  "author": "mohamed mhiri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohamedmhiri/optician-electron-client-side/issues"
+  },
+  "homepage": "https://github.com/mohamedmhiri/optician-electron-client-side#readme"
+}
