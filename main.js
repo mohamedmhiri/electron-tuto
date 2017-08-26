@@ -17,8 +17,8 @@ function createWindow () {
     slashes: true
   }))
 
-  // Open the DevTools.
-  mainWindow.webContents.openDevTools()
+  //To Open the DevTools just uncomment the line below.
+  // mainWindow.webContents.openDevTools()
 
   // Emitted when the window is closed.
   mainWindow.on('closed', () => {
