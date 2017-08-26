@@ -4,6 +4,7 @@
   "description": "optician desktop client side",
   "main": "main.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -23,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/mohamedmhiri/optician-electron-client-side/issues"
   },
-  "homepage": "https://github.com/mohamedmhiri/optician-electron-client-side#readme"
+  "homepage": "https://github.com/mohamedmhiri/optician-electron-client-side#readme",
+  "devDependencies": {
+    "electron": "^1.7.5"
+  }
 }
